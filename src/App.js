@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Xusrav from "./component/Xusrav";
-import Murodjon from "./component/Murodjon";
+import Bekzod from "./component/Bekzod";
 
 function App() {
   return (
@@ -21,9 +21,7 @@ function App() {
         </a>
       </header>
       <Xusrav />
-      <div>
-        <Murodjon />
-      </div>
+      <Bekzod />
     </div>
   );
 }
