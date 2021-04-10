@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Xusrav from "./component/Xusrav";
+import Bekzod from "./component/Bekzod";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         </a>
       </header>
       <Xusrav />
+      <Bekzod />
     </div>
   );
 }
