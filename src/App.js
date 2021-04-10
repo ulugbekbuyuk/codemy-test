@@ -1,10 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Xusrav from "./component/Xusrav";
+import Jahongir from "./component/Jahongir";
 
 function App() {
   return (
     <div className="App">
+      <Jahongir/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
