@@ -1,0 +1,11 @@
+@import "../variables/styling.scss";
+.home {
+  width: 50vw;
+  height: 50vh;
+  font-family: $textFont;
+  color: $textColor;
+  font-size: 3rem;
+  position: absolute;
+  top: 40%;
+  left: 35%;
+}
